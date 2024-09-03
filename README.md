@@ -10,8 +10,12 @@ Le [Lien](https://Raykesh-Soneka.github.io/react_base) du site
 Ouvrer VS-Code avec WSL puis aller dans le repertoire github cloner (mnt/... si il est pas dans WSL)
 
 
+## MAJ
 
+utiliser 
 
+npm run build
+npm run deploy
 
 
 
