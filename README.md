@@ -1,3 +1,28 @@
+# React_Base
+Code React pour commencer un projet
+
+Le [Lien](https://Raykesh-Soneka.github.io/react_base) du site
+
+## Installer npm, npx
+
+
+## WSL : 
+Ouvrer VS-Code avec WSL puis aller dans le repertoire github cloner (mnt/... si il est pas dans WSL)
+
+
+
+
+
+
+
+
+
+
+
+
+Doc React auto générer : 
+--------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
