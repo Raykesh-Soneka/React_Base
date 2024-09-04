@@ -13,10 +13,10 @@ Ouvrer VS-Code avec WSL puis aller dans le repertoire github cloner (mnt/... si 
 ## MAJ
 
 utiliser 
-
+```bash
 npm run build
 npm run deploy
-
+```
 
 
 
